@@ -16,3 +16,5 @@ Curso Engenharia de Computação na Universidade Federal do Ceará
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/wl11lm)
 [![Espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/wl11lm)
   
+![snake gif](https://github.com/wl11lm/wl11lm/blob/output/github-contribution-grid-snake.svg)
+

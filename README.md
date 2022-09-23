@@ -4,7 +4,6 @@ Curso Engenharia de Computação na Universidade Federal do Ceará
 <div align="center">
   <a href="https://github.com/wl11lm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wl11lm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wl11lm&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
